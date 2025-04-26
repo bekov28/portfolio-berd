@@ -35,14 +35,14 @@ const About = () => {
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container">
             <img
-              src="/assets/web.jpg"
+              src="/assets/stack.webp"
               alt="grid-2"
               className="w-full sm:h-[276px] h-fit object-contain"
             />
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-                I specialize in JavaScript/TypeScript with a focus on React and Node.js{" "}
+                My tech stack includes JavaScript/TypeScript with a focus on React Framework. For Backend, I specialize in Node.js. Currently, learning Java and Vue.js and MySQL.
               </p>
             </div>
           </div>
